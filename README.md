@@ -1,4 +1,4 @@
-<h2>Module 8 Challenge — Writing and ETL to Read, Extract, and Transform Data from Large .csv files and to Create a Database using the Cleaned Data 
+<h2>Module 8 Challenge — Writing an ETL to Read, Extract, and Transform Data and to Create a Database using the Cleaned Data 
   </h2>
   
 ______________________________________________________________________
